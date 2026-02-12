@@ -2,7 +2,7 @@
  
 ## Balance
 
-Kişisel finans yönetimi uygulaması. Gelir-gider takibi, hesaplar, yatırımlar ve raporları tek yerden yönetin; tüm veriler cihazınızda kalır.
+Kişisel finans yönetimi uygulaması. Gelir-gider takibi, hesaplar, yatırımlar ve raporları tek yerden yönetin; tüm veriler cihazınızda kalır. 
 
 ## Özellikler
 
@@ -17,7 +17,7 @@ Kişisel finans yönetimi uygulaması. Gelir-gider takibi, hesaplar, yatırımla
 - **Planlama:** Tekrarlayan ödemeler (kira, faturalar vb.) takvimi ve otomatik işlem oluşturma.
 - **Ayarlar:** Kategoriler (premium'da düzenlenebilir), yedekleme, sistem logları.
 
-Veriler yalnızca yerel veritabanında tutulur. Giriş ve premium durumu Supabase ile doğrulanır.
+Veriler yalnızca yerel veritabanında tutulur. Giriş ve premium durumu doğrulaması için internet gereklidir.
 
 ## Kurulum
 
@@ -48,9 +48,10 @@ Uygulama ilk kez açıldığında kısa bir tanıtım akışı gösterilir: aç�
 
 - **Döviz ve hisse:** Yahoo Finance  
 - **Altın (gram, çeyrek vb.):** truncgil (finans.truncgil.com)  
-- **Kripto:** CoinGecko  
+- **Kripto:** CoinGecko
 
-## Sürüm
+### Uygulama henüz beta aşamasındadır. Görüş ve önerileriniz için teşekkür ederiz. ###
+    vyblabs.contact@gmail.com 
 
-Sürüm geçmişi: [CHANGELOG.md](CHANGELOG.md).
+
 
